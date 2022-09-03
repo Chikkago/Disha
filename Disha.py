@@ -21,4 +21,4 @@ ax.set(xlim=(0, 12), xticks=np.arange(1, 12),
        ylim=(0, 12), yticks=np.arange(1, 12))
 
 plt.axis('on')
-plt.show() #выложить в гитхаб
+plt.show() 
